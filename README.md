@@ -2,7 +2,7 @@
 
 Progressive Web App (PWA) para consultar el horario de clases del programa **Pedagogía en Ruralidad y Paz** de la Universidad de Antioquia, Campus Carmen de Viboral.
 
-🌐 **Producción:** [ruralidadypaz.inteligencia.com.co](https://ruralidadypaz.inteligencia.com.co)
+🌐 **Producción:** [ryp.inteligencia.com.co](https://ryp.inteligencia.com.co)
 
 ## Características
 
@@ -66,7 +66,7 @@ Funciona con cualquier servidor HTTP (nginx, Apache, Netlify, GitHub Pages, etc)
 
 ### Hosting compartido
 
-Subir por FTP los archivos anteriores a la raíz del dominio `ruralidadypaz.inteligencia.com.co`.
+Subir por FTP los archivos anteriores a la raíz del dominio `ryp.inteligencia.com.co`.
 
 ## Actualizar datos
 

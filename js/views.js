@@ -213,8 +213,32 @@ el.innerHTML=h;bindF('fMatMatSel','fMatMat',rMat);
 function rAjustes(){
 const el=document.getElementById('view-ajustes');const theme=getTheme();const isDark=theme==='dark'||(theme==='auto'&&matchMedia('(prefers-color-scheme:dark)').matches);
 const p=PROGRAMA||{nombre:'',universidad:'',campus:'',semestre:''};
-el.innerHTML=`<div class="card-group-title">Apariencia</div><div class="card-group"><div class="sr"><span style="font-size:15px">Modo oscuro</span><button class="toggle${isDark?' on':''}" id="dkTgl" aria-label="Modo oscuro"></button></div></div><div class="card-group-title">Información</div><div class="card-group"><div class="sr"><span>Programa</span><span style="color:var(--text-tertiary);font-size:14px">${p.nombre}</span></div><div class="sr"><span>Semestre</span><span style="color:var(--text-tertiary);font-size:14px">${p.semestre}</span></div><div class="sr"><span>Universidad</span><span style="color:var(--text-tertiary);font-size:14px">${p.universidad}</span></div><div class="sr"><span>Campus</span><span style="color:var(--text-tertiary);font-size:14px">${p.campus}</span></div><div class="sr"><span>Materias</span><span style="color:var(--text-tertiary);font-size:14px">${DATA.materias.length}</span></div><div class="sr"><span>Total sesiones</span><span style="color:var(--text-tertiary);font-size:14px">${DATA.sesiones.length}</span></div></div><div class="card-group-title">Leyenda</div><div class="card-group"><div class="sr"><span>${ic('building',16)} Presencial (Pre)</span><span class="badge pre">Pre</span></div><div class="sr"><span>${ic('monitor',16)} Virtual (AMT)</span><span class="badge amt">AMT</span></div></div><div class="card-group-title">App</div><div class="card-group"><div class="sr"><span>Versión</span><span style="color:var(--text-tertiary);font-size:14px">1.0.0</span></div></div><div style="text-align:center;padding:32px 16px 16px;color:var(--text-tertiary);font-size:12px;line-height:1.8"><div style="font-weight:600;color:var(--text-secondary)">Desarrollado por Luis Cabezas</div><div>Estudiante</div><div><a href="https://inteligencia.com.co" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;font-weight:500">Inteligencia.com.co</a></div></div>`;
+el.innerHTML=`<div class="card-group-title">Apariencia</div><div class="card-group"><div class="sr"><span style="font-size:15px">Modo oscuro</span><button class="toggle${isDark?' on':''}" id="dkTgl" aria-label="Modo oscuro"></button></div></div><div class="card-group-title">Compartir</div><div class="card-group"><div class="sr"><span style="font-size:15px">Compartir app</span><button id="shareBtn" style="padding:8px 16px;border:none;background:var(--accent);color:#fff;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;font-family:inherit">Compartir</button></div></div><div class="card-group-title">Información</div><div class="card-group"><div class="sr"><span>Programa</span><span style="color:var(--text-tertiary);font-size:14px">${p.nombre}</span></div><div class="sr"><span>Semestre</span><span style="color:var(--text-tertiary);font-size:14px">${p.semestre}</span></div><div class="sr"><span>Universidad</span><span style="color:var(--text-tertiary);font-size:14px">${p.universidad}</span></div><div class="sr"><span>Campus</span><span style="color:var(--text-tertiary);font-size:14px">${p.campus}</span></div><div class="sr"><span>Materias</span><span style="color:var(--text-tertiary);font-size:14px">${DATA.materias.length}</span></div><div class="sr"><span>Total sesiones</span><span style="color:var(--text-tertiary);font-size:14px">${DATA.sesiones.length}</span></div></div><div class="card-group-title">Leyenda</div><div class="card-group"><div class="sr"><span>${ic('building',16)} Presencial (Pre)</span><span class="badge pre">Pre</span></div><div class="sr"><span>${ic('monitor',16)} Virtual (AMT)</span><span class="badge amt">AMT</span></div></div><div class="card-group-title">App</div><div class="card-group"><div class="sr"><span>Versión</span><span style="color:var(--text-tertiary);font-size:14px">1.0.0</span></div><div class="sr"><span style="font-size:15px">Buscar actualización</span><button id="clearCacheBtn" style="padding:8px 16px;border:none;background:var(--blue);color:#fff;border-radius:8px;font-size:13px;font-weight:600;cursor:pointer;font-family:inherit">Actualizar</button></div></div><div style="text-align:center;padding:32px 16px 16px;color:var(--text-tertiary);font-size:12px;line-height:1.8"><div style="font-weight:600;color:var(--text-secondary)">Desarrollado por Luis Cabezas</div><div>Estudiante</div><div><a href="https://inteligencia.com.co" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;font-weight:500">Inteligencia.com.co</a></div></div>`;
 document.getElementById('dkTgl').addEventListener('click',function(){applyTheme(this.classList.contains('on')?'light':'dark');rAjustes();});
+document.getElementById('shareBtn').addEventListener('click', async function(){
+const shareData={title:'Horario UdeA - Pedagogía en Ruralidad y Paz',text:'Consulta el horario de clases de Pedagogía en Ruralidad y Paz - Universidad de Antioquia',url:'https://ryp.inteligencia.com.co'};
+if(navigator.share){
+try{
+// Intentar compartir con imagen adjunta
+const res=await fetch('./icons/logo-app.png');
+const blob=await res.blob();
+const file=new File([blob],'horario-udea.png',{type:'image/png'});
+if(navigator.canShare&&navigator.canShare({files:[file]})){
+await navigator.share({...shareData,files:[file]});
+}else{await navigator.share(shareData);}
+}catch(e){/* usuario canceló */}
+}else{navigator.clipboard.writeText(shareData.url).then(()=>{this.textContent='¡Copiado!';setTimeout(()=>{this.textContent='Compartir';},2000);});}
+});
+document.getElementById('clearCacheBtn').addEventListener('click', async function(){
+this.textContent='Limpiando...';
+try{
+if('caches' in window){const keys=await caches.keys();await Promise.all(keys.map(k=>caches.delete(k)));}
+if(navigator.serviceWorker){const reg=await navigator.serviceWorker.getRegistration();if(reg)await reg.unregister();}
+localStorage.clear();
+this.textContent='¡Listo!';
+setTimeout(()=>location.reload(true),1000);
+}catch(e){this.textContent='Error';setTimeout(()=>{this.textContent='Actualizar';},2000);}
+});
 }
 
 // ============================================================
