@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /includes/
+Disallow: /database/
+Disallow: /api.php
+Disallow: /logout.php
+
+Sitemap: https://regudea.inteligencia.com.co/sitemap.php
+

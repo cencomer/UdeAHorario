@@ -1,16 +1,598 @@
 Semestre,Campus | Prog.,Programa-Relacionado,Cohorte,Código-Gr,Nombre Materia,Resumen horarios,Resumen de fechas
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043001-30,Cartografía Social y Territorial,D7-15,"📅Septiembre: dom 06 sept ▶️ Pre 🔸 dom 13 sept ▶️ AMT 🔸  
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043001-20,Cartografía Social y Territorial,S8-16,"📅Septiembre: sáb 05 sept ▶️ Pre 🔸 sáb 12 sept ▶️ AMT 🔸  
 
-📅Octubre: dom 04 oct ▶️ Pre 🔸 dom 11 oct ▶️ AMT 🔸  
+📅Octubre: sáb 03 oct ▶️ Pre 🔸 sáb 10 oct ▶️ AMT 🔸 sáb 24 oct ▶️ AMT 🔸 sáb 31 oct ▶️ Pre 🔸  
+
+📅Noviembre: sáb 07 nov ▶️ AMT 🔸 sáb 21 nov ▶️ AMT 🔸 sáb 28 nov ▶️ Pre 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043002-20,"Tierra, Territorio y Ecosistemas de las Comunidades Rurales",D7-15,"📅Septiembre: dom 06 sept ▶️ Pre 🔸 dom 13 sept ▶️ AMT 🔸  
+
+📅Octubre: dom 04 oct ▶️ Pre 🔸 dom 11 oct ▶️ AMT 🔸 dom 25 oct ▶️ AMT 🔸  
 
 📅Noviembre: dom 01 nov ▶️ Pre 🔸 dom 08 nov ▶️ AMT 🔸 dom 22 nov ▶️ AMT 🔸 dom 29 nov ▶️ Pre 🔸  
 
 "
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043002-30,"Tierra, Territorio y Ecosistemas de las Comunidades Rurales",S8-16,"📅Septiembre: sáb 05 sept ▶️ Pre 🔸 sáb 12 sept ▶️ AMT 🔸  
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043003-20,"Lo Rural, las Ruralidades y las Poblaciones Rurales",V9-17,"📅Septiembre: vie 04 sept ▶️ Pre 🔸 vie 11 sept ▶️ AMT 🔸  
 
-📅Octubre: sáb 03 oct ▶️ Pre 🔸 sáb 10 oct ▶️ AMT 🔸 sáb 31 oct ▶️ Pre 🔸  
+📅Octubre: vie 02 oct ▶️ Pre 🔸 vie 09 oct ▶️ AMT 🔸 vie 23 oct ▶️ AMT 🔸 vie 30 oct ▶️ Pre 🔸  
 
-📅Noviembre: sáb 07 nov ▶️ AMT 🔸 sáb 14 nov ▶️ AMT 🔸 sáb 21 nov ▶️ AMT 🔸 sáb 28 nov ▶️ Pre 🔸  
+📅Noviembre: vie 06 nov ▶️ AMT 🔸 vie 20 nov ▶️ AMT 🔸 vie 27 nov ▶️ Pre 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043004-20,El Buen Vivir: Vivir Bien en el Territorio y la Comunidad,S8-16,"📅Agosto: sáb 22 ago ▶️ Pre 🔸 sáb 29 ago ▶️ AMT 🔸  
+
+📅Septiembre: sáb 19 sept ▶️ Pre 🔸 sáb 26 sept ▶️ AMT 🔸  
+
+📅Octubre: sáb 17 oct ▶️ Pre 🔸 sáb 24 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 14 nov ▶️ Pre 🔸 sáb 21 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043005-20,Pedagogías desde la Diversidad Cultural,V9-17,"📅Agosto: vie 21 ago ▶️ Pre 🔸 vie 28 ago ▶️ AMT 🔸  
+
+📅Septiembre: vie 18 sept ▶️ Pre 🔸 vie 25 sept ▶️ AMT 🔸  
+
+📅Octubre: vie 16 oct ▶️ Pre 🔸 vie 23 oct ▶️ AMT 🔸  
+
+📅Noviembre: vie 13 nov ▶️ Pre 🔸 vie 20 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043006-20,Español Académico,D7-15,"📅Agosto: dom 23 ago ▶️ Pre 🔸 dom 30 ago ▶️ AMT 🔸  
+
+📅Septiembre: dom 20 sept ▶️ Pre 🔸 dom 27 sept ▶️ AMT 🔸  
+
+📅Octubre: dom 18 oct ▶️ Pre 🔸 dom 25 oct ▶️ AMT 🔸  
+
+📅Noviembre: dom 15 nov ▶️ Pre 🔸 dom 22 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043023-20,Práctica Pedagógica II: Planes de Vida Comunitarios,V9-17,"📅Agosto: vie 14 ago ▶️ Pre 🔸 vie 21 ago ▶️ AMT 🔸  
+
+📅Septiembre: vie 11 sept ▶️ Pre 🔸 vie 18 sept ▶️ Prác 🔸  
+
+📅Octubre: vie 09 oct ▶️ Pre 🔸 vie 16 oct ▶️ AMT 🔸 vie 23 oct ▶️ AMT 🔸  
+
+📅Noviembre: vie 06 nov ▶️ Pre 🔸 vie 13 nov ▶️ Prác 🔸 vie 27 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043024-20,Gestión y manejo de sistemas productivos y ambientales en la ruralidad,V9-17,"📅Agosto: vie 21 ago ▶️ AMT 🔸 vie 28 ago ▶️ Pre 🔸  
+
+📅Septiembre: vie 04 sept ▶️ AMT 🔸 vie 25 sept ▶️ Pre 🔸  
+
+📅Octubre: vie 02 oct ▶️ AMT 🔸 vie 23 oct ▶️ Pre 🔸 vie 30 oct ▶️ AMT 🔸  
+
+📅Noviembre: vie 20 nov ▶️ Pre 🔸 vie 27 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043025-20,Reforma Rural Integral y Construcción de Paz Territorial,D7-15,"📅Agosto: dom 23 ago ▶️ AMT 🔸 dom 30 ago ▶️ Pre 🔸  
+
+📅Septiembre: dom 06 sept ▶️ AMT 🔸 dom 27 sept ▶️ Pre 🔸  
+
+📅Octubre: dom 04 oct ▶️ AMT 🔸 dom 25 oct ▶️ Pre 🔸  
+
+📅Noviembre: dom 01 nov ▶️ AMT 🔸 dom 22 nov ▶️ Pre 🔸 sáb 28 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043026-20,Políticas Públicas y Salud Comunitaria en la Ruralidad,D7-15,"📅Agosto: dom 16 ago ▶️ Pre 🔸 dom 23 ago ▶️ AMT 🔸  
+
+📅Septiembre: dom 13 sept ▶️ Pre 🔸 dom 20 sept ▶️ AMT 🔸  
+
+📅Octubre: dom 11 oct ▶️ Pre 🔸 dom 18 oct ▶️ AMT 🔸  
+
+📅Noviembre: dom 08 nov ▶️ Pre 🔸 dom 15 nov ▶️ AMT 🔸 dom 29 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043027-20,Pedagogías Para la Paz Territorial,S8-16,"📅Agosto: sáb 22 ago ▶️ AMT 🔸 sáb 29 ago ▶️ Pre 🔸  
+
+📅Septiembre: sáb 05 sept ▶️ AMT 🔸 sáb 26 sept ▶️ Pre 🔸  
+
+📅Octubre: sáb 03 oct ▶️ AMT 🔸 sáb 24 oct ▶️ Pre 🔸 sáb 31 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 21 nov ▶️ Pre 🔸 sáb 28 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043033-20,Práctica Pedagógica IV: Propuesta Creativa Comunitaria I,S8-16,"📅Agosto: sáb 15 ago ▶️ Pre 🔸 sáb 22 ago ▶️ AMT 🔸 sáb 29 ago ▶️ AMT 🔸  
+
+📅Septiembre: sáb 05 sept ▶️ Prác 🔸 sáb 12 sept ▶️ Pre 🔸 sáb 19 sept ▶️ AMT 🔸  
+
+📅Octubre: sáb 03 oct ▶️ AMT 🔸 sáb 10 oct ▶️ Pre 🔸 sáb 17 oct ▶️ Prác 🔸 sáb 31 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 07 nov ▶️ Pre 🔸 sáb 14 nov ▶️ Prác 🔸 sáb 21 nov ▶️ AMT 🔸 sáb 28 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043033-21,Práctica Pedagógica IV: Propuesta Creativa Comunitaria I,S8-16,"📅Agosto: sáb 15 ago ▶️ Pre 🔸 sáb 22 ago ▶️ AMT 🔸 sáb 29 ago ▶️ AMT 🔸  
+
+📅Septiembre: sáb 05 sept ▶️ Prác 🔸 sáb 12 sept ▶️ Pre 🔸 sáb 19 sept ▶️ AMT 🔸  
+
+📅Octubre: sáb 03 oct ▶️ AMT 🔸 sáb 10 oct ▶️ Pre 🔸 sáb 17 oct ▶️ Prác 🔸 sáb 31 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 07 nov ▶️ Pre 🔸 sáb 14 nov ▶️ Prác 🔸 sáb 21 nov ▶️ AMT 🔸 sáb 28 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043033-22,Práctica Pedagógica IV: Propuesta Creativa Comunitaria I,S8-16,"📅Agosto: sáb 15 ago ▶️ Pre 🔸 sáb 22 ago ▶️ AMT 🔸 sáb 29 ago ▶️ AMT 🔸  
+
+📅Septiembre: sáb 05 sept ▶️ Prác 🔸 sáb 12 sept ▶️ Pre 🔸 sáb 19 sept ▶️ AMT 🔸  
+
+📅Octubre: sáb 03 oct ▶️ AMT 🔸 sáb 10 oct ▶️ Pre 🔸 sáb 17 oct ▶️ Prác 🔸 sáb 31 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 07 nov ▶️ Pre 🔸 sáb 14 nov ▶️ Prác 🔸 sáb 21 nov ▶️ AMT 🔸 sáb 28 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043034-20,Seminario de Profundización I,S8-16,"📅Agosto: sáb 22 ago ▶️ AMT 🔸 sáb 29 ago ▶️ Pre 🔸  
+
+📅Septiembre: sáb 05 sept ▶️ AMT 🔸 sáb 26 sept ▶️ Pre 🔸  
+
+📅Octubre: sáb 03 oct ▶️ AMT 🔸 sáb 24 oct ▶️ Pre 🔸 sáb 31 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 21 nov ▶️ Pre 🔸 sáb 28 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043035-20,Periodismo y Radio Comunitaria,V9-17,"📅Agosto: vie 14 ago ▶️ Pre 🔸 vie 21 ago ▶️ AMT 🔸  
+
+📅Septiembre: vie 11 sept ▶️ Pre 🔸 vie 18 sept ▶️ AMT 🔸  
+
+📅Octubre: vie 09 oct ▶️ Pre 🔸 vie 16 oct ▶️ AMT 🔸  
+
+📅Noviembre: vie 06 nov ▶️ Pre 🔸 vie 13 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043923-20,Infancias y Culturas Juveniles,V9-17,"📅Agosto: vie 21 ago ▶️ AMT 🔸 vie 28 ago ▶️ Pre 🔸  
+
+📅Septiembre: vie 04 sept ▶️ AMT 🔸 vie 25 sept ▶️ Pre 🔸  
+
+📅Octubre: vie 02 oct ▶️ AMT 🔸 vie 23 oct ▶️ Pre 🔸 vie 30 oct ▶️ AMT 🔸  
+
+📅Noviembre: vie 20 nov ▶️ Pre 🔸 vie 27 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043812-20,Teorías del conflicto y construcción de Paz,M18-22,"📅Agosto: mar 11 ago ▶️ AMT 🔸 mar 18 ago ▶️ AMT 🔸 mar 25 ago ▶️ AMT 🔸  
+
+📅Septiembre: mar 01 sept ▶️ AMT 🔸 mar 08 sept ▶️ AMT 🔸 mar 15 sept ▶️ AMT 🔸 mar 22 sept ▶️ AMT 🔸 mar 29 sept ▶️ AMT 🔸  
+
+📅Octubre: mar 06 oct ▶️ AMT 🔸 mar 13 oct ▶️ AMT 🔸 mar 20 oct ▶️ AMT 🔸 mar 27 oct ▶️ AMT 🔸  
+
+📅Noviembre: mar 03 nov ▶️ AMT 🔸 mar 10 nov ▶️ AMT 🔸 mar 17 nov ▶️ AMT 🔸 mar 24 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ciencias Naturales,2023-1,2059006-20,Políticas Públicas y Legislación Educativa,V14-19 - S7-12 - D14-19,"📅Octubre: vie 16 oct ▶️  🔸 sáb 17 oct ▶️  🔸 vie 23 oct ▶️  🔸 sáb 24 oct ▶️  🔸 vie 30 oct ▶️  🔸 sáb 31 oct ▶️  🔸 dom 18 oct ▶️ AMT 🔸 dom 25 oct ▶️ AMT 🔸  
+
+📅Noviembre: vie 06 nov ▶️  🔸 sáb 07 nov ▶️  🔸 vie 13 nov ▶️  🔸 sáb 14 nov ▶️  🔸 dom 01 nov ▶️ AMT 🔸 dom 08 nov ▶️ AMT 🔸  
+
+"
+2026-2,Amalfi,Ciencias Naturales,2023-1,2090801-20,Práctica Pedagógica VIII,S14-19 - D7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸 sáb 19 sept ▶️  🔸 dom 20 sept ▶️  🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 dom 04 oct ▶️  🔸 sáb 17 oct ▶️  🔸 dom 18 oct ▶️  🔸 sáb 31 oct ▶️  🔸  
+
+📅Noviembre: dom 01 nov ▶️  🔸  
+
+"
+2026-2,Amalfi,Ciencias Naturales,2023-1,2090702-20,Zoología,V14-19 - S7-12 - D14-19,"📅Agosto: vie 21 ago ▶️  🔸 sáb 22 ago ▶️  🔸 vie 28 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 23 ago ▶️ AMT 🔸 dom 30 ago ▶️ AMT 🔸  
+
+📅Septiembre: vie 04 sept ▶️  🔸 sáb 05 sept ▶️  🔸 vie 11 sept ▶️  🔸 sáb 12 sept ▶️  🔸 vie 18 sept ▶️  🔸 sáb 19 sept ▶️  🔸 vie 25 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 06 sept ▶️ AMT 🔸 dom 13 sept ▶️ AMT 🔸 dom 20 sept ▶️ AMT 🔸  
+
+📅Octubre: vie 02 oct ▶️ Lab 🔸 sáb 03 oct ▶️ Lab 🔸 vie 09 oct ▶️  🔸 sáb 10 oct ▶️  🔸 dom 11 oct ▶️ AMT 🔸  
+
+"
+2026-2,Andes,Especial,2026-2,2059003-25,Tradiciones y paradigmas en pedagogía,"L6-7 -  - ",
+2026-2,Andes,Especial,2026-2,2059004-25,"Historia, imágenes y concepciones de maestro.","L6-7 -  - ",
+2026-2,Andes,Especial,2026-2,2059006-25,Políticas Públicas y Legislación Educativa,"L6-7 -  - ",
+2026-2,Andes,Especial,2026-2,2018010-25,"Relaciones entre desarrollo, educación y aprendizaje I","L6-7 -  - ",
+2026-2,Andes,Especial,2026-2,2018011-25,Historia y tradiciones de la educación especial,"L6-7 -  - ",
+2026-2,Andes,Especial,2026-2,2018014-25,Práctica pedagógica I,"L6-7 -  - ",
+2026-2,Andes,Especial,2026-2,2018020-25,Matemáticas y su didáctica,"L6-7 -  - ",
+2026-2,Andes,Ciencias Naturales,2025-2,2090303-25,Sistemas Químicos III,S14-19 - DD_7-12 - V7-12,"📅Octubre: sáb 24 oct ▶️  🔸 dom 25 oct ▶️  🔸 sáb 31 oct ▶️  🔸 vie 23 oct ▶️ ATM 🔸 vie 30 oct ▶️ ATM 🔸  
+
+📅Noviembre: dom 01 nov ▶️  🔸 sáb 07 nov ▶️  🔸 dom 08 nov ▶️  🔸 sáb 14 nov ▶️  🔸 dom 15 nov ▶️  🔸 sáb 21 nov ▶️  🔸 dom 22 nov ▶️  🔸 sáb 28 nov ▶️  🔸 dom 29 nov ▶️  🔸 vie 06 nov ▶️ ATM 🔸 vie 13 nov ▶️ ATM 🔸 vie 20 nov ▶️ ATM 🔸 vie 27 nov ▶️ ATM 🔸 dom 22 nov ▶️ ATM 🔸 dom 29 nov ▶️ ATM 🔸  
+
+📅Diciembre: sáb 05 dic ▶️  🔸 dom 06 dic ▶️  🔸 vie 04 dic ▶️ AMT 🔸 "
+2026-2,Andes,Ciencias Naturales,2025-2,2090304-25,Física Biológica II,V14-19 - S7-12 - D14-19,"📅Agosto: vie 21 ago ▶️  🔸 sáb 22 ago ▶️  🔸  
+
+📅Septiembre: vie 04 sept ▶️  🔸 sáb 05 sept ▶️ Lab 🔸 vie 18 sept ▶️  🔸 sáb 19 sept ▶️ Lab 🔸 dom 20 sept ▶️ ATM 🔸 dom 27 sept ▶️ ATM 🔸  
+
+📅Octubre: vie 02 oct ▶️  🔸 sáb 03 oct ▶️ Lab 🔸 vie 16 oct ▶️  🔸 sáb 17 oct ▶️ Lab 🔸 vie 30 oct ▶️  🔸 sáb 31 oct ▶️  🔸 dom 11 oct ▶️ ATM 🔸 dom 18 oct ▶️ ATM 🔸 dom 25 oct ▶️ ATM 🔸  
+
+📅Noviembre: vie 13 nov ▶️  🔸 sáb 14 nov ▶️  🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,2025-2,2096531-25,Calculo Integral,S14-19 - D7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 vie 14 ago ▶️ ATM 🔸 vie 28 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸 sáb 19 sept ▶️  🔸 dom 20 sept ▶️  🔸 vie 11 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 dom 04 oct ▶️  🔸 sáb 17 oct ▶️  🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,2025-2,2090301-25,"Práctica Pedagógica III ",S14-19 - D7-12 - D14-19,"📅Agosto: sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 dom 23 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 12 sept ▶️  🔸 dom 13 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 27 sept ▶️  🔸 dom 06 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 10 oct ▶️  🔸 dom 11 oct ▶️  🔸 dom 04 oct ▶️ ATM 🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,"2025-1 , 2025-2",2090302-25,Microbiología,V14-19 - S7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️ AMT 🔸 vie 14 ago ▶️  🔸 sáb 15 ago ▶️  🔸 vie 28 ago ▶️  🔸 sáb 29 ago ▶️ Lab 🔸 dom 16 ago ▶️ ATM 🔸 vie 21 ago ▶️ ATM 🔸  
+
+📅Septiembre: vie 11 sept ▶️  🔸 sáb 12 sept ▶️ Lab 🔸 vie 25 sept ▶️  🔸 sáb 26 sept ▶️ Lab 🔸 vie 04 sept ▶️ ATM 🔸 vie 18 sept ▶️ ATM 🔸  
+
+📅Octubre: vie 09 oct ▶️  🔸 sáb 10 oct ▶️ Lab 🔸 vie 23 oct ▶️  🔸 sáb 24 oct ▶️  🔸 vie 02 oct ▶️ ATM 🔸 vie 16 oct ▶️ ATM 🔸 vie 02 oct ▶️ ATM 🔸 vie 09 oct ▶️ ATM 🔸  
+
+📅Noviembre: vie 06 nov ▶️  🔸 sáb 07 nov ▶️  🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,2025-1,2094401-25,Práctica Pedagógica IV,S7-12 - V14-19 - D14-19,"📅Agosto: sáb 08 ago ▶️  🔸 sáb 22 ago ▶️  🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 sáb 19 sept ▶️  🔸 dom 20 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 17 oct ▶️  🔸 sáb 24 oct ▶️  🔸 sáb 31 oct ▶️  🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 sáb 14 nov ▶️  🔸 sáb 21 nov ▶️  🔸 vie 27 nov ▶️  🔸 sáb 28 nov ▶️  🔸 dom 22 nov ▶️ ATM 🔸  
+
+📅Diciembre: sáb 05 dic ▶️  🔸 "
+2026-2,Andes,Ciencias Naturales,2025-1,2090404-25,Fisica Biológica III,S14-19 - D7-12 - D14-19,"📅Agosto: sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 dom 30 ago ▶️ AMT 🔸  
+
+📅Septiembre: sáb 05 sept ▶️ Lab 🔸 dom 06 sept ▶️  🔸 sáb 19 sept ▶️ Lab 🔸 dom 20 sept ▶️  🔸 dom 13 sept ▶️ AMT 🔸 dom 27 sept ▶️ AMT 🔸  
+
+📅Octubre: sáb 03 oct ▶️ Lab 🔸 dom 04 oct ▶️  🔸 sáb 17 oct ▶️ Lab 🔸 dom 18 oct ▶️  🔸 sáb 31 oct ▶️  🔸 dom 11 oct ▶️ AMT 🔸 dom 25 oct ▶️ ATM 🔸  
+
+📅Noviembre: dom 01 nov ▶️  🔸 sáb 14 nov ▶️  🔸 dom 15 nov ▶️  🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,2025-1,2090401-25,Práctica Pedagógica IV,V14-19 - S7-12 - V7-12,"📅Agosto: vie 21 ago ▶️  🔸 sáb 22 ago ▶️  🔸  
+
+📅Septiembre: vie 04 sept ▶️  🔸 sáb 05 sept ▶️  🔸 vie 18 sept ▶️  🔸 sáb 19 sept ▶️  🔸  
+
+📅Octubre: vie 02 oct ▶️  🔸 sáb 03 oct ▶️  🔸 vie 16 oct ▶️  🔸 sáb 17 oct ▶️  🔸 vie 30 oct ▶️  🔸 sáb 31 oct ▶️  🔸 vie 09 oct ▶️ ATM 🔸 vie 23 oct ▶️ ATM 🔸  
+
+📅Noviembre: vie 13 nov ▶️  🔸 sáb 14 nov ▶️  🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,2025-1,2090403-25,Sistemas Químicos IV,S14-19 - DD_7-12 - D14-19,"📅Agosto: sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 dom 09 ago ▶️ ATM 🔸 dom 23 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 12 sept ▶️  🔸 dom 13 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 27 sept ▶️  🔸 dom 06 sept ▶️ ATM 🔸 dom 20 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 10 oct ▶️  🔸 dom 11 oct ▶️  🔸 sáb 24 oct ▶️  🔸 dom 25 oct ▶️  🔸 dom 04 oct ▶️ ATM 🔸 dom 18 oct ▶️ ATM 🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 dom 08 nov ▶️  🔸 dom 01 nov ▶️ AMT 🔸 dom 15 nov ▶️ AMT 🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,"2024-2 , 2025-1",2059008-25,"Cognición, cultura y aprendizaje",V14-19 - S7-12 - D14-19,"📅Noviembre: vie 20 nov ▶️  🔸 sáb 21 nov ▶️  🔸 sáb 21 nov ▶️  🔸 dom 22 nov ▶️  🔸 vie 27 nov ▶️  🔸 sáb 28 nov ▶️  🔸 sáb 28 nov ▶️  🔸 dom 29 nov ▶️  🔸 dom 08 nov ▶️ ATM 🔸 dom 22 nov ▶️ ATM 🔸 dom 29 nov ▶️ ATM 🔸  
+
+📅Diciembre: vie 04 dic ▶️  🔸 sáb 05 dic ▶️  🔸 dom 06 dic ▶️ ATM 🔸 "
+2026-2,Andes,Ciencias Naturales,2024-2,2090502-25,Genética,S14-19 - D7-12 - V7-12,"📅Agosto: sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 vie 28 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 12 sept ▶️ Lab 🔸 dom 13 sept ▶️  🔸 sáb 26 sept ▶️ Lab 🔸 dom 27 sept ▶️  🔸 vie 11 sept ▶️ ATM 🔸 vie 25 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 10 oct ▶️ Lab 🔸 dom 11 oct ▶️  🔸 sáb 24 oct ▶️ Lab 🔸 dom 25 oct ▶️  🔸 vie 09 oct ▶️ ATM 🔸 vie 23 oct ▶️ ATM 🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 dom 08 nov ▶️  🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,2024-2,2090501-25,Práctica Pedagógica V,S14-19 - DD_7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 vie 14 ago ▶️ ATM 🔸 vie 21 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸 sáb 19 sept ▶️  🔸 dom 20 sept ▶️  🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 dom 04 oct ▶️  🔸 sáb 17 oct ▶️  🔸 dom 18 oct ▶️  🔸 sáb 31 oct ▶️  🔸  
+
+📅Noviembre: dom 01 nov ▶️  🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,2024-2,2090503-25,Sistemas Químicos V,V14-19 - S7-12 - D14-19,"📅Agosto: vie 14 ago ▶️  🔸 sáb 15 ago ▶️  🔸 vie 21 ago ▶️  🔸 sáb 22 ago ▶️  🔸 vie 28 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 16 ago ▶️ ATM 🔸 dom 23 ago ▶️ ATM 🔸 dom 30 ago ▶️ ATM 🔸  
+
+📅Septiembre: vie 04 sept ▶️  🔸 sáb 05 sept ▶️  🔸 vie 11 sept ▶️  🔸 sáb 12 sept ▶️  🔸 vie 18 sept ▶️  🔸 sáb 19 sept ▶️  🔸 vie 25 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 27 sept ▶️ AMT 🔸 dom 06 sept ▶️ ATM 🔸 dom 13 sept ▶️ ATM 🔸 dom 20 sept ▶️ ATM 🔸 dom 27 sept ▶️ 0 🔸  
+
+📅Octubre: dom 04 oct ▶️ AMT 🔸 dom 04 oct ▶️ 0 🔸  
+
+"
+2026-2,Andes,Ciencias Naturales,2024-2,2059002-25,Sujetos en las Relaciones Pedagógicas,V14-19 - S7-12 - D14-19,"📅Octubre: vie 02 oct ▶️  🔸 sáb 03 oct ▶️  🔸 vie 09 oct ▶️  🔸 sáb 10 oct ▶️  🔸 vie 16 oct ▶️  🔸 sáb 17 oct ▶️  🔸 vie 23 oct ▶️  🔸 sáb 24 oct ▶️  🔸 vie 30 oct ▶️  🔸 sáb 31 oct ▶️  🔸 dom 11 oct ▶️ ATM 🔸 dom 18 oct ▶️ ATM 🔸 dom 25 oct ▶️ ATM 🔸  
+
+📅Noviembre: dom 01 nov ▶️ ATM 🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,"2024-1 , 2025-1",2094402-25,Poesía,S14-19 - D7-12 - V7-12,"📅Octubre: sáb 03 oct ▶️  🔸 dom 04 oct ▶️  🔸 sáb 24 oct ▶️  🔸 dom 25 oct ▶️  🔸 vie 16 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 dom 08 nov ▶️  🔸 sáb 14 nov ▶️  🔸 dom 15 nov ▶️  🔸 sáb 21 nov ▶️  🔸 dom 22 nov ▶️  🔸 vie 06 nov ▶️ AMT 🔸 vie 13 nov ▶️ AMT 🔸 vie 20 nov ▶️ AMT 🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,"2024-1 , 2025-1",2094204-25,Historia de la Lengua,S14-19 - D7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 vie 14 ago ▶️ ATM 🔸 vie 21 ago ▶️ ATM 🔸 vie 28 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸 vie 04 sept ▶️ ATM 🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,"2024-1 , 2025-1",2059005-25,Teorías curriculares y contextos educativos,V14-19 - S7-12 - D14-19,"📅Agosto: vie 14 ago ▶️  🔸 sáb 15 ago ▶️  🔸 vie 28 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 23 ago ▶️ ATM 🔸 dom 30 ago ▶️ ATM 🔸  
+
+📅Septiembre: vie 11 sept ▶️  🔸 sáb 12 sept ▶️  🔸 vie 25 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 06 sept ▶️ ATM 🔸 dom 13 sept ▶️ ATM 🔸  
+
+📅Octubre: vie 09 oct ▶️  🔸 sáb 10 oct ▶️  🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,"2024-1 , 2025-1",2094403-25,Dramaturgia y teatro,S14-19 - D7-12 - V7-12,"📅Septiembre: sáb 12 sept ▶️  🔸 dom 13 sept ▶️  🔸 sáb 19 sept ▶️  🔸 dom 20 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 27 sept ▶️  🔸 vie 18 sept ▶️ ATM 🔸 vie 25 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 10 oct ▶️  🔸 dom 11 oct ▶️  🔸 sáb 17 oct ▶️  🔸 dom 18 oct ▶️  🔸 vie 02 oct ▶️ ATM 🔸 vie 09 oct ▶️ ATM 🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,2024-1,2094601-25,Práctica Pedagógica VI,S7-12 - V14-19 - D14-19,"📅Agosto: sáb 08 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 09 ago ▶️ ATM 🔸 dom 16 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 sáb 19 sept ▶️  🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 17 oct ▶️  🔸 sáb 24 oct ▶️  🔸 sáb 31 oct ▶️  🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 sáb 14 nov ▶️  🔸 sáb 21 nov ▶️  🔸 vie 27 nov ▶️  🔸 sáb 28 nov ▶️  🔸  
+
+📅Diciembre: sáb 05 dic ▶️  🔸 "
+2026-2,Andes,Especial,2024-1,2018064-25,Práctica pedagógica VI,S7-12 -  - D14-19,"📅Agosto: sáb 15 ago ▶️  🔸 sáb 22 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 09 ago ▶️ AMT 🔸 dom 16 ago ▶️ AMT 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 sáb 12 sept ▶️  🔸 sáb 19 sept ▶️  🔸 sáb 26 sept ▶️  🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 10 oct ▶️  🔸 sáb 17 oct ▶️  🔸 sáb 24 oct ▶️  🔸 sáb 31 oct ▶️  🔸 dom 18 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸  
+
+"
+2026-2,Andes,Especial,2024-1,2018060-25,"Modelos de evaluación, atención y asesoramiento en educación especial",V14-19 - S7-12 - D14-19,"📅Octubre: vie 23 oct ▶️  🔸 vie 30 oct ▶️  🔸 dom 25 oct ▶️ ATM 🔸  
+
+📅Noviembre: vie 06 nov ▶️  🔸 vie 13 nov ▶️  🔸 sáb 14 nov ▶️  🔸 vie 20 nov ▶️  🔸 sáb 21 nov ▶️  🔸 vie 27 nov ▶️  🔸 sáb 28 nov ▶️  🔸 dom 01 nov ▶️ ATM 🔸 dom 08 nov ▶️ ATM 🔸 dom 15 nov ▶️ ATM 🔸  
+
+📅Diciembre: vie 04 dic ▶️  🔸 "
+2026-2,Andes,Especial,2024-1,2018061-25,Educación y discapacidades sensoriales: visual,S14-19 -  - V7-12,"📅Septiembre: sáb 12 sept ▶️  🔸 sáb 19 sept ▶️  🔸 sáb 26 sept ▶️  🔸 vie 18 sept ▶️ ATM 🔸 vie 25 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 10 oct ▶️  🔸 sáb 17 oct ▶️  🔸 sáb 24 oct ▶️  🔸 sáb 31 oct ▶️  🔸 vie 02 oct ▶️ ATM 🔸 vie 09 oct ▶️ ATM 🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 sáb 14 nov ▶️  🔸  
+
+"
+2026-2,Andes,Especial,2024-1,2059008-26,"Cognición, cultura y aprendizaje",S14-19 - D7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 vie 14 ago ▶️ ATM 🔸 vie 21 ago ▶️ ATM 🔸 vie 28 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸 vie 04 sept ▶️ ATM 🔸  
+
+"
+2026-2,Andes,Especial,2024-1,2018062-25,Educación y discapacidad motora y dificultades de movilidad,V14-19 -  - D14-19,"📅Agosto: vie 14 ago ▶️  🔸 vie 21 ago ▶️  🔸 vie 28 ago ▶️  🔸 dom 23 ago ▶️ ATM 🔸 dom 30 ago ▶️ ATM 🔸  
+
+📅Septiembre: vie 04 sept ▶️  🔸 vie 11 sept ▶️  🔸 vie 18 sept ▶️  🔸 vie 25 sept ▶️  🔸 dom 06 sept ▶️ ATM 🔸 dom 13 sept ▶️ ATM 🔸  
+
+📅Octubre: vie 02 oct ▶️  🔸 vie 09 oct ▶️  🔸 vie 16 oct ▶️  🔸  
+
+"
+2026-2,Andes,Especial,2023-1,2022011-26,Educación rural,J10-18 -  - J10-14,"📅Agosto: jue 06 ago ▶️  🔸 jue 13 ago ▶️ AMT 🔸 jue 20 ago ▶️  🔸 jue 27 ago ▶️  🔸  
+
+📅Septiembre: jue 03 sept ▶️ AMT 🔸 jue 10 sept ▶️  🔸 jue 17 sept ▶️  🔸 jue 24 sept ▶️ AMT 🔸  
+
+📅Octubre: jue 01 oct ▶️  🔸 jue 08 oct ▶️ AMT 🔸 jue 15 oct ▶️  🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2094801-26,Práctica Pedagógica VIII,V14-19 - S7-12,"📅Agosto: vie 14 ago ▶️  🔸 sáb 15 ago ▶️  🔸  
+
+📅Septiembre: vie 11 sept ▶️  🔸 sáb 12 sept ▶️  🔸 vie 25 sept ▶️  🔸 sáb 26 sept ▶️  🔸  
+
+📅Octubre: vie 16 oct ▶️  🔸 sáb 17 oct ▶️  🔸 vie 30 oct ▶️  🔸 sáb 31 oct ▶️  🔸  
+
+📅Noviembre: vie 13 nov ▶️  🔸 sáb 14 nov ▶️  🔸 vie 20 nov ▶️  🔸 sáb 21 nov ▶️  🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2022011-25,Educación rural,S14-19 - D7-12 - V7-12,"📅Octubre: sáb 17 oct ▶️  🔸 dom 18 oct ▶️  🔸 sáb 31 oct ▶️  🔸 vie 30 oct ▶️ AMT 🔸  
+
+📅Noviembre: dom 01 nov ▶️  🔸 sáb 14 nov ▶️  🔸 dom 15 nov ▶️  🔸 sáb 21 nov ▶️  🔸 dom 22 nov ▶️  🔸 sáb 28 nov ▶️  🔸 dom 29 nov ▶️  🔸 vie 13 nov ▶️ AMT 🔸 vie 20 nov ▶️ AMT 🔸 vie 27 nov ▶️ AMT 🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2094803-25,Proyecto de semiótica de la cultura,S14-19 - D7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 vie 14 ago ▶️ ATM 🔸 vie 21 ago ▶️ ATM 🔸 vie 28 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸  
+
+"
+2026-2,Andes,Especial,2023-1,2059002-26,Sujetos en las Relaciones Pedagógicas,L10-18 -  - L10-14,"📅Agosto: lun 03 ago ▶️  🔸 lun 10 ago ▶️  🔸 lun 24 ago ▶️  🔸 lun 31 ago ▶️ AMT 🔸  
+
+📅Septiembre: lun 07 sept ▶️  🔸 lun 14 sept ▶️  🔸 lun 21 sept ▶️ AMT 🔸 lun 28 sept ▶️  🔸  
+
+📅Octubre: lun 05 oct ▶️ ATM 🔸 lun 19 oct ▶️  🔸 lun 26 oct ▶️ ATM 🔸  
+
+"
+2026-2,Andes,Especial,2023-1,2018080-25,"Diseño, gestión y evaluación de planes, programas y proyectos en educación especial",W8-12,"📅Agosto: mié 05 ago ▶️  🔸 mié 12 ago ▶️  🔸 mié 19 ago ▶️  🔸 mié 26 ago ▶️  🔸  
+
+📅Septiembre: mié 02 sept ▶️ AMT 🔸 mié 09 sept ▶️  🔸 mié 16 sept ▶️  🔸 mié 23 sept ▶️ AMT 🔸 mié 30 sept ▶️  🔸  
+
+📅Octubre: mié 07 oct ▶️ AMT 🔸 mié 14 oct ▶️  🔸 mié 21 oct ▶️  🔸 mié 28 oct ▶️ ATM 🔸  
+
+📅Noviembre: mié 04 nov ▶️  🔸  
+
+"
+2026-2,Andes,Especial,2023-1,2018084-25,Práctica pedagógica VIII,M10-18 -  - M10-14,"📅Agosto: mar 04 ago ▶️  🔸 mar 18 ago ▶️  🔸  
+
+📅Septiembre: mar 01 sept ▶️  🔸 mar 15 sept ▶️  🔸 mar 29 sept ▶️  🔸 mar 22 sept ▶️ ATM 🔸  
+
+📅Octubre: mar 13 oct ▶️  🔸 mar 27 oct ▶️  🔸  
+
+📅Noviembre: mar 10 nov ▶️  🔸 mar 17 nov ▶️ ATM 🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2094802-25,Seminario de investigación literaria,S14-19 - D7-12 - V7-12,"📅Septiembre: sáb 12 sept ▶️  🔸 dom 13 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 27 sept ▶️  🔸 vie 25 sept ▶️ AMT 🔸  
+
+📅Octubre: sáb 10 oct ▶️  🔸 dom 11 oct ▶️  🔸 sáb 24 oct ▶️  🔸 dom 25 oct ▶️  🔸 vie 09 oct ▶️ AMT 🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 dom 08 nov ▶️  🔸 vie 06 nov ▶️ AMT 🔸  
+
+"
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2094801-25,Práctica Pedagógica VIII,V14-19 - S7-12,"📅Agosto: vie 14 ago ▶️  🔸 sáb 15 ago ▶️  🔸 vie 28 ago ▶️  🔸 sáb 29 ago ▶️  🔸  
+
+📅Septiembre: vie 11 sept ▶️  🔸 sáb 12 sept ▶️  🔸 vie 25 sept ▶️  🔸 sáb 26 sept ▶️  🔸  
+
+📅Octubre: vie 16 oct ▶️  🔸 sáb 17 oct ▶️  🔸 vie 30 oct ▶️  🔸 sáb 31 oct ▶️  🔸  
+
+📅Noviembre: vie 13 nov ▶️  🔸 sáb 14 nov ▶️  🔸  
+
+"
+2026-2,Andes,Especial,2023-1,2018084-26,Práctica pedagógica VIII,L10-18 - M10-14,"📅Agosto: lun 10 ago ▶️  🔸 lun 24 ago ▶️  🔸 mar 25 ago ▶️ AMT 🔸  
+
+📅Septiembre: lun 07 sept ▶️  🔸 lun 21 sept ▶️  🔸  
+
+📅Octubre: lun 05 oct ▶️  🔸 lun 19 oct ▶️  🔸  
+
+📅Noviembre: lun 09 nov ▶️  🔸 lun 23 nov ▶️  🔸 mar 03 nov ▶️ AMT 🔸  
+
+"
+2026-2,Apartado,Especial,2026-1,2018024-80,Práctica pedagógica II,S7-12 -  - D14-19,"📅Agosto: sáb 08 ago ▶️  🔸 sáb 15 ago ▶️  🔸 sáb 22 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 09 ago ▶️ ATM 🔸 dom 16 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 sáb 12 sept ▶️  🔸 sáb 19 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 13 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 10 oct ▶️  🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094202-80,Teorías Literarias I,S14-19 - D7-12 - V14-19,"📅Octubre: sáb 17 oct ▶️  🔸 dom 18 oct ▶️  🔸 sáb 24 oct ▶️  🔸 dom 25 oct ▶️  🔸 sáb 31 oct ▶️  🔸 vie 23 oct ▶️ AMT 🔸 vie 30 oct ▶️ AMT 🔸  
+
+📅Noviembre: dom 01 nov ▶️  🔸 sáb 07 nov ▶️  🔸 dom 08 nov ▶️  🔸 sáb 14 nov ▶️  🔸 dom 15 nov ▶️  🔸 vie 06 nov ▶️ AMT 🔸 vie 13 nov ▶️ AMT 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094201-80,Práctica pedagógica II,V14-19 - S7-12 - D14-19,"📅Octubre: vie 23 oct ▶️  🔸 sáb 24 oct ▶️  🔸 vie 30 oct ▶️  🔸 sáb 31 oct ▶️  🔸 dom 25 oct ▶️ ATM 🔸  
+
+📅Noviembre: vie 06 nov ▶️  🔸 sáb 07 nov ▶️  🔸 vie 13 nov ▶️  🔸 sáb 14 nov ▶️  🔸 vie 20 nov ▶️  🔸 sáb 21 nov ▶️  🔸 dom 01 nov ▶️ ATM 🔸 dom 08 nov ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094304-80,Morfología,V14-19 - S7-12 - D14-19,"📅Septiembre: vie 18 sept ▶️  🔸 sáb 19 sept ▶️  🔸 vie 25 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 20 sept ▶️ AMT 🔸 dom 27 sept ▶️ AMT 🔸  
+
+📅Octubre: vie 02 oct ▶️  🔸 sáb 03 oct ▶️  🔸 vie 09 oct ▶️  🔸 sáb 10 oct ▶️  🔸 vie 16 oct ▶️  🔸 sáb 17 oct ▶️  🔸 dom 04 oct ▶️ AMT 🔸 dom 11 oct ▶️ AMT 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094203-80,Fonética y fonología,S14-19 - D7-12 - V7-12,"📅Septiembre: sáb 12 sept ▶️  🔸 dom 13 sept ▶️  🔸 sáb 19 sept ▶️  🔸 dom 20 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 27 sept ▶️  🔸 vie 18 sept ▶️ ATM 🔸 vie 25 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 dom 04 oct ▶️  🔸 sáb 10 oct ▶️  🔸 dom 11 oct ▶️  🔸 vie 02 oct ▶️ ATM 🔸 vie 09 oct ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2059001-80,Educación Popular,V14-19 - S7-12 - D14-19,"📅Agosto: vie 14 ago ▶️  🔸 sáb 15 ago ▶️  🔸 vie 21 ago ▶️  🔸 sáb 22 ago ▶️  🔸 vie 28 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 23 ago ▶️ ATM 🔸 dom 30 ago ▶️ ATM 🔸  
+
+📅Septiembre: vie 04 sept ▶️  🔸 sáb 05 sept ▶️  🔸 vie 11 sept ▶️  🔸 sáb 12 sept ▶️  🔸 dom 06 sept ▶️ ATM 🔸 dom 13 sept ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2059008-80,"Cognición, cultura y aprendizaje",S14-19 - D7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 vie 14 ago ▶️ AMT 🔸 vie 21 ago ▶️ AMT 🔸 vie 28 ago ▶️ AMT 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸 vie 04 sept ▶️ AMT 🔸  
+
+"
+2026-2,Apartado,Especial,2026-1,2018024-81,Práctica pedagógica II,S7-12 -  - D14-19,"📅Agosto: sáb 08 ago ▶️  🔸 sáb 15 ago ▶️  🔸 sáb 22 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 09 ago ▶️ ATM 🔸 dom 16 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 sáb 12 sept ▶️  🔸 sáb 19 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 13 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 10 oct ▶️  🔸  
+
+"
+2026-2,Apartado,Especial,2026-1,2018021-80,Lengua castellana y su didáctica,S14-19 -  - D14-19,"📅Septiembre: sáb 12 sept ▶️  🔸 sáb 19 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 20 sept ▶️ ATM 🔸 dom 27 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 10 oct ▶️  🔸 sáb 17 oct ▶️  🔸 sáb 24 oct ▶️  🔸 sáb 31 oct ▶️  🔸 dom 04 oct ▶️ ATM 🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 sáb 14 nov ▶️  🔸 sáb 21 nov ▶️  🔸  
+
+"
+2026-2,Apartado,Especial,2026-1,2018020-80,Matemáticas y su didáctica,V14-19 -  - D14-19,"📅Agosto: vie 14 ago ▶️  🔸 vie 21 ago ▶️  🔸 vie 28 ago ▶️  🔸 dom 23 ago ▶️ ATM 🔸 dom 30 ago ▶️ ATM 🔸  
+
+📅Septiembre: vie 04 sept ▶️  🔸 vie 11 sept ▶️  🔸 vie 18 sept ▶️  🔸 vie 25 sept ▶️  🔸 dom 06 sept ▶️ ATM 🔸  
+
+📅Octubre: vie 02 oct ▶️  🔸 vie 09 oct ▶️  🔸 vie 16 oct ▶️  🔸 vie 23 oct ▶️  🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094201-81,Práctica pedagógica II,V14-19 - S7-12 - D14-19,"📅Octubre: vie 23 oct ▶️  🔸 sáb 24 oct ▶️  🔸 vie 30 oct ▶️  🔸 sáb 31 oct ▶️  🔸 dom 25 oct ▶️ ATM 🔸  
+
+📅Noviembre: vie 06 nov ▶️  🔸 sáb 07 nov ▶️  🔸 vie 13 nov ▶️  🔸 sáb 14 nov ▶️  🔸 vie 20 nov ▶️  🔸 sáb 21 nov ▶️  🔸 dom 01 nov ▶️ ATM 🔸 dom 08 nov ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Especial,2026-1,2018023-80,Políticas educativas y sociales en discapacidad y capacidades y talentos excepcionales,D7-12 -  - V7-12,"📅Septiembre: dom 13 sept ▶️  🔸 dom 20 sept ▶️  🔸 dom 27 sept ▶️  🔸 vie 18 sept ▶️ ATM 🔸  
+
+📅Octubre: dom 04 oct ▶️  🔸 dom 11 oct ▶️  🔸 dom 18 oct ▶️  🔸 dom 25 oct ▶️  🔸 vie 02 oct ▶️ ATM 🔸 vie 16 oct ▶️ ATM 🔸 vie 23 oct ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Especial,2026-1,2059005-80,Teorías curriculares y contextos educativos,S14-19 - D7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 vie 14 ago ▶️ ATM 🔸 vie 21 ago ▶️ ATM 🔸 vie 28 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸 vie 04 sept ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Especial,2026-1,2018025-80,"Relaciones entre desarrollo, educación y aprendizaje II",D7-12 - S14-19 - V7-12,"📅Noviembre: dom 01 nov ▶️  🔸 dom 08 nov ▶️  🔸 dom 15 nov ▶️  🔸 dom 22 nov ▶️  🔸 sáb 28 nov ▶️  🔸 dom 29 nov ▶️  🔸 vie 06 nov ▶️ ATM 🔸 vie 13 nov ▶️ ATM 🔸 vie 20 nov ▶️ ATM 🔸 vie 27 nov ▶️ ATM 🔸  
+
+📅Diciembre: dom 06 dic ▶️  🔸 "
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2094302-80,Teorías literarias II,W7-11 -  - L15-19,"📅Agosto: mié 05 ago ▶️  🔸 mié 12 ago ▶️  🔸 mié 19 ago ▶️  🔸 mié 26 ago ▶️  🔸 lun 31 ago ▶️ ATM 🔸  
+
+📅Septiembre: mié 02 sept ▶️  🔸 mié 09 sept ▶️  🔸 mié 23 sept ▶️  🔸 mié 30 sept ▶️  🔸 mié 16 sept ▶️  🔸 lun 21 sept ▶️ ATM 🔸  
+
+📅Octubre: mié 07 oct ▶️  🔸 mié 14 oct ▶️  🔸 mié 21 oct ▶️  🔸 mié 28 oct ▶️  🔸 lun 05 oct ▶️ ATM 🔸  
+
+📅Noviembre: mié 04 nov ▶️  🔸 lun 09 nov ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2059007-81,"Didácticas, saberes y evaluación",J7-15 -  - J7-11,"📅Agosto: jue 06 ago ▶️  🔸 jue 13 ago ▶️  🔸 jue 20 ago ▶️ AMT 🔸 jue 27 ago ▶️  🔸  
+
+📅Septiembre: jue 03 sept ▶️ AMT 🔸 jue 10 sept ▶️  🔸 jue 24 sept ▶️  🔸  
+
+📅Octubre: jue 01 oct ▶️ ATM 🔸 jue 08 oct ▶️  🔸 jue 15 oct ▶️  🔸 jue 22 oct ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2094303-80,Literaturas griega y latina,M11-19 -  - J11-15,"📅Agosto: mar 11 ago ▶️  🔸 mar 25 ago ▶️  🔸  
+
+📅Septiembre: mar 22 sept ▶️  🔸 jue 17 sept ▶️ ATM 🔸  
+
+📅Octubre: mar 06 oct ▶️  🔸 mar 20 oct ▶️  🔸 mar 27 oct ▶️  🔸 jue 01 oct ▶️ ATM 🔸 jue 29 oct ▶️ ATM 🔸  
+
+📅Noviembre: mar 03 nov ▶️  🔸 jue 05 nov ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2094301-80,Práctica Pedagógica III,M7-15 -  - W11-15,"📅Agosto: mar 04 ago ▶️  🔸 mar 18 ago ▶️  🔸 mié 26 ago ▶️ ATM 🔸  
+
+📅Septiembre: mar 01 sept ▶️  🔸 mar 15 sept ▶️  🔸 mar 29 sept ▶️  🔸 mié 09 sept ▶️ ATM 🔸 mié 23 sept ▶️ ATM 🔸  
+
+📅Octubre: mar 13 oct ▶️  🔸 mié 07 oct ▶️ ATM 🔸 mié 28 oct ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2094404-80,Sintaxis,L7-15 -  - L7-11,"📅Agosto: lun 03 ago ▶️  🔸 lun 10 ago ▶️  🔸 lun 24 ago ▶️  🔸 lun 31 ago ▶️ AMT 🔸  
+
+📅Septiembre: lun 07 sept ▶️  🔸 lun 14 sept ▶️  🔸 lun 21 sept ▶️ AMT 🔸 lun 28 sept ▶️  🔸  
+
+📅Octubre: lun 05 oct ▶️ AMT 🔸 lun 19 oct ▶️  🔸 lun 26 oct ▶️ AMT 🔸  
+
+"
+2026-2,Apartado,Especial,2025-1,2018041-80,Educación y discapacidad Intelectual,S14-19 -  - D14-19,"📅Septiembre: sáb 12 sept ▶️  🔸 sáb 19 sept ▶️  🔸 sáb 26 sept ▶️  🔸 dom 13 sept ▶️ ATM 🔸 dom 20 sept ▶️ ATM 🔸 dom 27 sept ▶️ ATM 🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 10 oct ▶️  🔸 sáb 17 oct ▶️  🔸 sáb 24 oct ▶️  🔸 sáb 31 oct ▶️  🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸 sáb 14 nov ▶️  🔸 sáb 21 nov ▶️  🔸  
+
+"
+2026-2,Apartado,Especial,2025-1,2018043-80,Educación y déficit de atención con o sin hiperactividad,D7-12 -  - V7-12,"📅Septiembre: dom 13 sept ▶️  🔸 dom 20 sept ▶️  🔸 dom 27 sept ▶️  🔸  
+
+📅Octubre: dom 04 oct ▶️  🔸 dom 11 oct ▶️  🔸 dom 18 oct ▶️  🔸 dom 25 oct ▶️  🔸 vie 02 oct ▶️ ATM 🔸 vie 09 oct ▶️ ATM 🔸 vie 16 oct ▶️ ATM 🔸  
+
+📅Noviembre: dom 01 nov ▶️  🔸 dom 08 nov ▶️  🔸 dom 15 nov ▶️  🔸 dom 22 nov ▶️  🔸  
+
+"
+2026-2,Apartado,Especial,2025-1,2018042-80,Didáctica y educación especial,S14-19 - D7-12 - V7-12,"📅Agosto: sáb 08 ago ▶️  🔸 dom 09 ago ▶️  🔸 sáb 15 ago ▶️  🔸 dom 16 ago ▶️  🔸 sáb 22 ago ▶️  🔸 dom 23 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 30 ago ▶️  🔸 vie 14 ago ▶️ ATM 🔸 vie 21 ago ▶️ ATM 🔸 vie 28 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 dom 06 sept ▶️  🔸 vie 04 sept ▶️ ATM 🔸  
+
+"
+2026-2,Apartado,Especial,2025-1,2018040-80,Artes y su didáctica,V14-19 -  - D14-19,"📅Agosto: vie 14 ago ▶️  🔸 vie 21 ago ▶️  🔸 vie 28 ago ▶️  🔸 dom 23 ago ▶️ ATM 🔸 dom 30 ago ▶️ ATM 🔸  
+
+📅Septiembre: vie 04 sept ▶️  🔸 vie 11 sept ▶️  🔸 vie 18 sept ▶️  🔸 vie 25 sept ▶️  🔸 dom 06 sept ▶️ ATM 🔸  
+
+📅Octubre: vie 02 oct ▶️  🔸 vie 09 oct ▶️  🔸 vie 16 oct ▶️  🔸 vie 23 oct ▶️  🔸  
+
+"
+2026-2,Apartado,Especial,2025-1,2018044-80,Práctica pedagógica IV,S7-12 -  - D14-19,"📅Agosto: sáb 08 ago ▶️  🔸 sáb 15 ago ▶️  🔸 sáb 22 ago ▶️  🔸 sáb 29 ago ▶️  🔸 dom 09 ago ▶️ ATM 🔸 dom 16 ago ▶️ ATM 🔸  
+
+📅Septiembre: sáb 05 sept ▶️  🔸 sáb 12 sept ▶️  🔸 sáb 19 sept ▶️  🔸 sáb 26 sept ▶️  🔸  
+
+📅Octubre: sáb 03 oct ▶️  🔸 sáb 10 oct ▶️  🔸 sáb 17 oct ▶️  🔸 sáb 24 oct ▶️  🔸 sáb 31 oct ▶️  🔸  
+
+📅Noviembre: sáb 07 nov ▶️  🔸  
+
+"
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043006-30,Español Académico,V9-17,"📅Agosto: vie 21 ago ▶️ Pre 🔸 vie 28 ago ▶️ AMT 🔸  
+
+📅Septiembre: vie 18 sept ▶️ Pre 🔸 vie 25 sept ▶️ AMT 🔸  
+
+📅Octubre: vie 16 oct ▶️ Pre 🔸 vie 23 oct ▶️ AMT 🔸  
+
+📅Noviembre: vie 13 nov ▶️ Pre 🔸 vie 20 nov ▶️ AMT 🔸  
+
+"
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043004-30,El Buen Vivir: Vivir Bien en el Territorio y la Comunidad,V9-17,"📅Septiembre: vie 04 sept ▶️ Pre 🔸 vie 11 sept ▶️ AMT 🔸  
+
+📅Octubre: vie 02 oct ▶️ Pre 🔸 vie 09 oct ▶️ AMT 🔸 vie 30 oct ▶️ Pre 🔸  
+
+📅Noviembre: vie 06 nov ▶️ AMT 🔸 vie 20 nov ▶️ AMT 🔸 vie 27 nov ▶️ Pre 🔸  
 
 "
 2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043003-30,"Lo Rural, las Ruralidades y las Poblaciones Rurales",S8-16,"📅Agosto: sáb 22 ago ▶️ Pre 🔸 sáb 29 ago ▶️ AMT 🔸  
@@ -22,11 +604,18 @@ Semestre,Campus | Prog.,Programa-Relacionado,Cohorte,Código-Gr,Nombre Materia,R
 📅Noviembre: sáb 14 nov ▶️ Pre 🔸 sáb 21 nov ▶️ AMT 🔸 sáb 28 nov ▶️ AMT 🔸  
 
 "
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043004-30,El Buen Vivir: Vivir Bien en el Territorio y la Comunidad,V9-17,"📅Septiembre: vie 04 sept ▶️ Pre 🔸 vie 11 sept ▶️ AMT 🔸  
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043002-30,"Tierra, Territorio y Ecosistemas de las Comunidades Rurales",S8-16,"📅Septiembre: sáb 05 sept ▶️ Pre 🔸 sáb 12 sept ▶️ AMT 🔸  
 
-📅Octubre: vie 02 oct ▶️ Pre 🔸 vie 09 oct ▶️ AMT 🔸 vie 30 oct ▶️ Pre 🔸  
+📅Octubre: sáb 03 oct ▶️ Pre 🔸 sáb 10 oct ▶️ AMT 🔸 sáb 31 oct ▶️ Pre 🔸  
 
-📅Noviembre: vie 06 nov ▶️ AMT 🔸 vie 20 nov ▶️ AMT 🔸 vie 27 nov ▶️ Pre 🔸  
+📅Noviembre: sáb 07 nov ▶️ AMT 🔸 sáb 14 nov ▶️ AMT 🔸 sáb 21 nov ▶️ AMT 🔸 sáb 28 nov ▶️ Pre 🔸  
+
+"
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043001-30,Cartografía Social y Territorial,D7-15,"📅Septiembre: dom 06 sept ▶️ Pre 🔸 dom 13 sept ▶️ AMT 🔸  
+
+📅Octubre: dom 04 oct ▶️ Pre 🔸 dom 11 oct ▶️ AMT 🔸  
+
+📅Noviembre: dom 01 nov ▶️ Pre 🔸 dom 08 nov ▶️ AMT 🔸 dom 22 nov ▶️ AMT 🔸 dom 29 nov ▶️ Pre 🔸  
 
 "
 2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043005-30,Pedagogías desde la Diversidad Cultural,D7-15,"📅Agosto: dom 23 ago ▶️ Pre 🔸 dom 30 ago ▶️ AMT 🔸  
@@ -38,12 +627,75 @@ Semestre,Campus | Prog.,Programa-Relacionado,Cohorte,Código-Gr,Nombre Materia,R
 📅Noviembre: dom 15 nov ▶️ Pre 🔸 dom 22 nov ▶️ AMT 🔸 dom 29 nov ▶️ AMT 🔸  
 
 "
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043006-30,Español Académico,V9-17,"📅Agosto: vie 21 ago ▶️ Pre 🔸 vie 28 ago ▶️ AMT 🔸  
+2026-2,Carmen de Viboral,Especial,2026-2,2018010-30,"Relaciones entre desarrollo, educación y aprendizaje I",W11-15 -  - L11-15,"📅Agosto: mié 05 ago ▶️  🔸 mié 12 ago ▶️  🔸 mié 19 ago ▶️  🔸 mié 26 ago ▶️  🔸 lun 10 ago ▶️ AMT 🔸  
 
-📅Septiembre: vie 18 sept ▶️ Pre 🔸 vie 25 sept ▶️ AMT 🔸  
+📅Septiembre: mié 02 sept ▶️  🔸 mié 09 sept ▶️  🔸 mié 16 sept ▶️  🔸 mié 23 sept ▶️ AMT 🔸 mié 30 sept ▶️  🔸  
 
-📅Octubre: vie 16 oct ▶️ Pre 🔸 vie 23 oct ▶️ AMT 🔸  
+📅Octubre: mié 07 oct ▶️  🔸 mié 14 oct ▶️  🔸 mié 21 oct ▶️  🔸 mié 28 oct ▶️ AMT 🔸  
 
-📅Noviembre: vie 13 nov ▶️ Pre 🔸 vie 20 nov ▶️ AMT 🔸  
+📅Noviembre: mié 04 nov ▶️  🔸 mié 11 nov ▶️  🔸 mié 18 nov ▶️ ATM 🔸 mié 25 nov ▶️  🔸  
+
+"
+2026-2,Carmen de Viboral,Especial,2026-2,2018014-30,Práctica pedagógica I,M11-15,"📅Agosto: mar 04 ago ▶️  🔸 mar 11 ago ▶️  🔸 mar 18 ago ▶️  🔸 mar 25 ago ▶️ AMT 🔸  
+
+📅Septiembre: mar 01 sept ▶️  🔸 mar 08 sept ▶️  🔸 mar 15 sept ▶️  🔸 mar 22 sept ▶️ AMT 🔸 mar 29 sept ▶️  🔸  
+
+📅Octubre: mar 06 oct ▶️  🔸 mar 13 oct ▶️  🔸 mar 20 oct ▶️  🔸 mar 27 oct ▶️ AMT 🔸  
+
+📅Noviembre: mar 03 nov ▶️  🔸 mar 10 nov ▶️  🔸 mar 17 nov ▶️ ATM 🔸 mar 24 nov ▶️  🔸  
+
+"
+2026-2,Carmen de Viboral,Especial,2026-2,2059006-31,Políticas Públicas y Legislación Educativa,J15-19 -  - W15-19,"📅Agosto: jue 06 ago ▶️  🔸 jue 13 ago ▶️  🔸 jue 20 ago ▶️  🔸 jue 27 ago ▶️  🔸 mié 12 ago ▶️ ATM 🔸  
+
+📅Septiembre: jue 03 sept ▶️  🔸 jue 10 sept ▶️  🔸 jue 17 sept ▶️ AMT 🔸 jue 24 sept ▶️  🔸  
+
+📅Octubre: jue 01 oct ▶️  🔸 jue 08 oct ▶️  🔸 jue 15 oct ▶️  🔸 jue 22 oct ▶️  🔸 jue 29 oct ▶️ AMT 🔸  
+
+📅Noviembre: jue 05 nov ▶️  🔸 jue 12 nov ▶️  🔸 jue 19 nov ▶️ ATM 🔸 jue 26 nov ▶️  🔸  
+
+"
+2026-2,Carmen de Viboral,Especial,2026-2,2018011-30,Historia y tradiciones de la educación especial,J11-15,"📅Agosto: jue 06 ago ▶️  🔸 jue 13 ago ▶️  🔸 jue 20 ago ▶️ AMT 🔸 jue 27 ago ▶️  🔸  
+
+📅Septiembre: jue 03 sept ▶️  🔸 jue 10 sept ▶️ AMT 🔸 jue 17 sept ▶️  🔸 jue 24 sept ▶️  🔸  
+
+📅Octubre: jue 01 oct ▶️ AMT 🔸 jue 08 oct ▶️  🔸 jue 15 oct ▶️ AMT 🔸 jue 22 oct ▶️  🔸 jue 29 oct ▶️  🔸  
+
+📅Noviembre: jue 05 nov ▶️ AMT 🔸  
+
+"
+2026-2,Carmen de Viboral,Especial,2026-2,2059004-30,"Historia, imágenes y concepciones de maestro.",M15-19 -  - W15-19,"📅Agosto: mar 04 ago ▶️  🔸 mar 11 ago ▶️  🔸 mar 18 ago ▶️  🔸 mar 25 ago ▶️  🔸 mié 05 ago ▶️ ATM 🔸  
+
+📅Septiembre: mar 01 sept ▶️  🔸 mar 08 sept ▶️  🔸 mar 15 sept ▶️  🔸 mar 22 sept ▶️ AMT 🔸 mar 29 sept ▶️  🔸  
+
+📅Octubre: mar 06 oct ▶️  🔸 mar 13 oct ▶️  🔸 mar 20 oct ▶️  🔸 mar 27 oct ▶️ AMT 🔸  
+
+📅Noviembre: mar 03 nov ▶️  🔸 mar 10 nov ▶️  🔸 mar 17 nov ▶️ AMT 🔸 mar 24 nov ▶️  🔸  
+
+"
+2026-2,Carmen de Viboral,Especial,2026-1,2018025-30,"Relaciones entre desarrollo, educación y aprendizaje II",M11-15,"📅Agosto: mar 04 ago ▶️  🔸 mar 11 ago ▶️  🔸 mar 18 ago ▶️ AMT 🔸 mar 25 ago ▶️  🔸  
+
+📅Septiembre: mar 01 sept ▶️  🔸 mar 08 sept ▶️ AMT 🔸 mar 15 sept ▶️  🔸 mar 22 sept ▶️ AMT 🔸 mar 29 sept ▶️  🔸  
+
+📅Octubre: mar 06 oct ▶️  🔸 mar 13 oct ▶️ AMT 🔸 mar 20 oct ▶️  🔸 mar 27 oct ▶️  🔸  
+
+📅Noviembre: mar 03 nov ▶️ AMT 🔸  
+
+"
+2026-2,Carmen de Viboral,Matemáticas,2026-1,2059007-31,"Didácticas, saberes y evaluación",J11-15 -  - M11-15,"📅Agosto: jue 06 ago ▶️  🔸 jue 13 ago ▶️  🔸 jue 20 ago ▶️  🔸 jue 27 ago ▶️  🔸 mar 11 ago ▶️ ATM 🔸  
+
+📅Septiembre: jue 03 sept ▶️  🔸 jue 10 sept ▶️  🔸 jue 17 sept ▶️ AMT 🔸 jue 24 sept ▶️  🔸  
+
+📅Octubre: jue 01 oct ▶️  🔸 jue 08 oct ▶️  🔸 jue 15 oct ▶️  🔸 jue 22 oct ▶️ AMT 🔸 jue 29 oct ▶️  🔸  
+
+📅Noviembre: jue 05 nov ▶️  🔸 jue 12 nov ▶️  🔸 jue 19 nov ▶️ ATM 🔸 jue 26 nov ▶️  🔸  
+
+"
+2026-2,Carmen de Viboral,Especial,2026-1,2018021-30,Lengua castellana y su didáctica,J11-15 -  - M7-11,"📅Agosto: jue 06 ago ▶️  🔸 jue 13 ago ▶️  🔸 jue 20 ago ▶️  🔸 jue 27 ago ▶️  🔸 mar 11 ago ▶️ ATM 🔸 mar 18 ago ▶️ ATM 🔸 mar 25 ago ▶️ ATM 🔸  
+
+📅Septiembre: jue 03 sept ▶️  🔸 jue 10 sept ▶️  🔸 jue 17 sept ▶️  🔸 jue 24 sept ▶️  🔸 mar 01 sept ▶️ ATM 🔸  
+
+📅Octubre: jue 01 oct ▶️  🔸 jue 08 oct ▶️  🔸 jue 15 oct ▶️  🔸 jue 22 oct ▶️  🔸 jue 29 oct ▶️  🔸  
+
+📅Noviembre: jue 05 nov ▶️  🔸  
 
 "

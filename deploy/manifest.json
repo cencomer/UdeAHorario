@@ -1,0 +1,44 @@
+{
+  "name": "Regiones UdeA - Facultad de Educación",
+  "short_name": "Regiones UdeA",
+  "description": "Consulta el horario de clases de la Universidad de Antioquia, sedes regionales. Múltiples campus, programas y cohortes.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f2f2f7",
+  "theme_color": "#34A853",
+  "id": "/",
+  "lang": "es-CO",
+  "dir": "ltr",
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icons/logo-app.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/logo-app.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Calendario",
+      "short_name": "Calendario",
+      "url": "/calendario.php",
+      "icons": [{ "src": "/icons/logo-app.png", "sizes": "512x512" }]
+    },
+    {
+      "name": "Materias",
+      "short_name": "Materias",
+      "url": "/materias.php",
+      "icons": [{ "src": "/icons/logo-app.png", "sizes": "512x512" }]
+    }
+  ]
+}

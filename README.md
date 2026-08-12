@@ -1,105 +1,121 @@
-# Horario UdeA - Pedagogía en Ruralidad y Paz
+# Horario UdeA - Sedes Regionales
 
-Progressive Web App (PWA) para consultar el horario de clases del programa **Pedagogía en Ruralidad y Paz** de la Universidad de Antioquia, Campus Carmen de Viboral.
+Sistema de consulta de horarios académicos para la Universidad de Antioquia, sedes regionales. Soporta múltiples campus, programas y cohortes.
 
 🌐 **Producción:** [ryp.inteligencia.com.co](https://ryp.inteligencia.com.co)
 
-## Características
-
-- 📱 PWA instalable en cualquier dispositivo (iOS, Android, Desktop)
-- 🌙 Modo claro y oscuro (detecta preferencia del sistema)
-- 📅 Vista de calendario mensual interactivo con modal de detalle
-- 📋 Vista de agenda con accordion por mes
-- 📖 Vista de materias con detalle por docente
-- 🔍 Filtros por materia y modalidad (Presencial / Virtual)
-- 💾 Estado persistido en localStorage (filtros, vista, mes)
-- 🔌 Funciona 100% offline (Service Worker con cache-first)
-- ♿ Accesible (ARIA roles, focus-visible, contraste)
-- 🍎 UI siguiendo Apple Human Interface Guidelines
-
-## Estructura del proyecto
+## Arquitectura
 
 ```
-├── index.html          # HTML + CSS (estructura y estilos)
-├── manifest.json       # Configuración PWA
-├── sw.js               # Service Worker (cache offline)
-├── Dockerfile          # Contenedor Docker (nginx)
-├── .dockerignore       # Exclusiones del build
-├── icons/
-│   └── logo-app.png    # Logo/ícono de la aplicación
-├── js/
-│   ├── app.js          # Iconos SVG inline (Lucide)
-│   ├── data.js         # Cargador de datos + helpers + estado
-│   └── views.js        # Renderizado de vistas + navegación
-└── data/
-    ├── data.json       # Base de datos de la app
-    ├── Docentes.csv    # Fuente original (respaldo)
-    ├── Horario.csv
-    └── Sesiones.csv
+├── php/          → Aplicación web (PHP + SQLite) - Para hosting compartido
+├── api/          → API REST (Go) - Para app móvil Expo / servidores
+├── data/         → Fuentes de datos (CSVs + JSON master)
+└── scripts/      → Herramientas de procesamiento
 ```
 
-## Despliegue
+## Aplicación Web (PHP)
 
-### Docker (recomendado)
+Aplicación server-rendered con diseño Apple HIG. Compatible con cualquier hosting compartido con PHP 7.4+.
+
+### Características
+- Multi-campus, multi-programa, multi-cohorte
+- Vista agenda con accordion por mes
+- Calendario interactivo con modal de detalle
+- Fichas de materias con sesiones agrupadas
+- Filtros por materia y modalidad (Presencial / Virtual)
+- Modo claro y oscuro
+- Persistencia de selección via cookies
+- Diseño responsive (móvil, tablet, desktop)
+- Iconos SVG inline (sin CDN)
+- API JSON integrada para apps móviles
+
+### Deploy en Hosting Compartido
+
+1. Sube el contenido de `php/public/` a la raíz de tu dominio
+2. Sube `php/includes/` fuera del document root (o dentro, junto a public)
+3. Sube `php/database/horario.db` 
+4. Verifica que la ruta en `includes/db.php` apunte correctamente a `horario.db`
+
+**Estructura en el servidor:**
+```
+public_html/             (o www/ o htdocs/)
+├── index.php
+├── inicio.php
+├── calendario.php
+├── materias.php
+├── ajustes.php
+├── api.php
+├── logout.php
+├── .htaccess
+├── css/app.css
+├── js/app.js
+├── icons/logo-app.png
+└── includes/            (mover aquí)
+    ├── db.php
+    ├── header.php
+    ├── footer.php
+    ├── tabbar.php
+    ├── filters.php
+    ├── icons.php
+    └── session.php
+database/
+    └── horario.db
+```
+
+### Docker (desarrollo local)
 
 ```bash
-docker build -t horario-udea .
-docker run -d --name horario-udea -p 8080:80 horario-udea
+# Levantar con volumen (cambios instantáneos)
+docker run -d --name horario-php -p 8081:80 \
+  -v $(pwd)/php:/app -w /app/public \
+  php:8.3-cli php -S 0.0.0.0:80
 ```
 
-Acceder en: `http://localhost:8080`
+## API REST (Go)
 
-### Servidor estático
+API independiente para ser consumida por la app Expo u otros clientes.
 
-Copiar al servidor los siguientes archivos/carpetas:
+### Endpoints
 
-```
-index.html
-manifest.json
-sw.js
-icons/
-js/
-data/data.json
-```
+| Método | Ruta | Auth | Descripción |
+|--------|------|:---:|-------------|
+| GET | /api/health | ❌ | Health check |
+| GET | /api/programa | ✅ | Info del programa |
+| GET | /api/docentes | ✅ | Lista de docentes |
+| GET | /api/materias | ✅ | Lista de materias |
+| GET | /api/sesiones | ✅ | Sesiones (filtrable) |
+| GET | /api/resumen | ✅ | Estadísticas |
+| POST | /api/admin/reload | 🔒 | Recargar datos en caliente |
 
-Funciona con cualquier servidor HTTP (nginx, Apache, Netlify, GitHub Pages, etc).
+### Docker
 
-### Hosting compartido
-
-Subir por FTP los archivos anteriores a la raíz del dominio `ryp.inteligencia.com.co`.
-
-## Actualizar datos
-
-Para un nuevo semestre, editar únicamente `data/data.json`:
-
-```json
-{
-  "programa": { ... },
-  "docentes": [ ... ],
-  "materias": [ ... ],
-  "sesiones": [ ... ]
-}
+```bash
+cd api
+docker build -t horario-api .
+docker run -d --name horario-api -p 9090:8080 \
+  -e API_KEY=tu-clave-secreta \
+  -e ADMIN_KEY=tu-clave-admin \
+  horario-api
 ```
 
-No se requiere modificar ningún archivo de código.
+## Actualizar Datos
 
-## Stack tecnológico
+1. Editar los CSVs en `data/`
+2. Ejecutar `python scripts/parse_csv.py` → genera `data/data.json`
+3. Para PHP: ejecutar `php php/database/import.php` → actualiza `horario.db`
+4. Para Go API: `POST /api/admin/reload` con header `X-Admin-Key`
 
-- HTML5 + CSS3 (variables CSS, grid, flexbox)
-- JavaScript vanilla (ES2017+, async/await)
-- SVG inline para iconos (zero dependencies)
-- Service Worker API (cache offline)
-- Web App Manifest (PWA)
-- Docker + nginx:alpine (producción)
+## Stack
+
+- **Frontend:** PHP 7.4+ server-rendered, CSS variables, JS vanilla
+- **Base de datos:** SQLite (archivo embebido)
+- **API:** Go 1.22 (binario estático)
+- **Iconos:** SVG inline (Lucide)
+- **Deploy:** Hosting compartido / Docker
 
 ## Autor
 
 **Luis Cabezas**  
 Estudiante - Pedagogía en Ruralidad y Paz  
 Universidad de Antioquia  
-
 🌐 [Inteligencia.com.co](https://inteligencia.com.co)
-
-## Licencia
-
-Uso académico. Todos los derechos reservados.

@@ -1,7 +1,101 @@
 Semestre,Campus | Prog.,Programa-Relacionado,Cohorte,Código-Gr,Cupo,Nombre Materia,Resumen horarios
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043001-30,27,Cartografía Social y Territorial,D7-15
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043002-30,27,"Tierra, Territorio y Ecosistemas de las Comunidades Rurales",S8-16
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043003-30,27,"Lo Rural, las Ruralidades y las Poblaciones Rurales",S8-16
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043004-30,27,El Buen Vivir: Vivir Bien en el Territorio y la Comunidad,V9-17
-2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043005-30,27,Pedagogías desde la Diversidad Cultural,D7-15
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043006-20,22,Español Académico,D7-15
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043005-20,22,Pedagogías desde la Diversidad Cultural,V9-17
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043004-20,22,El Buen Vivir: Vivir Bien en el Territorio y la Comunidad,S8-16
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043003-20,22,"Lo Rural, las Ruralidades y las Poblaciones Rurales",V9-17
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043002-20,22,"Tierra, Territorio y Ecosistemas de las Comunidades Rurales",D7-15
+2026-2,Amalfi,Ruralidad y Paz,2026-2,2043001-20,22,Cartografía Social y Territorial,S8-16
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043027-20,11,Pedagogías Para la Paz Territorial,S8-16
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043026-20,11,Políticas Públicas y Salud Comunitaria en la Ruralidad,D7-15
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043025-20,11,Reforma Rural Integral y Construcción de Paz Territorial,D7-15
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043024-20,11,Gestión y manejo de sistemas productivos y ambientales en la ruralidad,V9-17
+2026-2,Amalfi,Ruralidad y Paz,2024-2,2043023-20,11,Práctica Pedagógica II: Planes de Vida Comunitarios,V9-17
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043812-20,23,Teorías del conflicto y construcción de Paz,M18-22
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043923-20,23,Infancias y Culturas Juveniles,V9-17
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043035-20,23,Periodismo y Radio Comunitaria,V9-17
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043034-20,23,Seminario de Profundización I,S8-16
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043033-22,8,Práctica Pedagógica IV: Propuesta Creativa Comunitaria I,S8-16
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043033-21,8,Práctica Pedagógica IV: Propuesta Creativa Comunitaria I,S8-16
+2026-2,Amalfi,Ruralidad y Paz,2023-2,2043033-20,8,Práctica Pedagógica IV: Propuesta Creativa Comunitaria I,S8-16
+2026-2,Amalfi,Ciencias Naturales,2023-1,2090801-20,11,Práctica Pedagógica VIII,S14-19 - D7-12
+2026-2,Amalfi,Ciencias Naturales,2023-1,2090702-20,15,Zoología,V14-19 - S7-12 - D14-19
+2026-2,Amalfi,Ciencias Naturales,2023-1,2059006-20,15,Políticas Públicas y Legislación Educativa,V14-19 - S7-12 - D14-19
+2026-2,Andes,Especial,2026-2,2018014-25,35,Práctica pedagógica I,"L6-7 -  - "
+2026-2,Andes,Especial,2026-2,2018020-25,35,Matemáticas y su didáctica,"L6-7 -  - "
+2026-2,Andes,Especial,2026-2,2059003-25,35,Tradiciones y paradigmas en pedagogía,"L6-7 -  - "
+2026-2,Andes,Especial,2026-2,2059004-25,35,"Historia, imágenes y concepciones de maestro.","L6-7 -  - "
+2026-2,Andes,Especial,2026-2,2059006-25,35,Políticas Públicas y Legislación Educativa,"L6-7 -  - "
+2026-2,Andes,Especial,2026-2,2018010-25,40,"Relaciones entre desarrollo, educación y aprendizaje I","L6-7 -  - "
+2026-2,Andes,Especial,2026-2,2018011-25,35,Historia y tradiciones de la educación especial,"L6-7 -  - "
+2026-2,Andes,Ciencias Naturales,2025-2,2090301-25,20,"Práctica Pedagógica III ",S14-19 - D7-12 - D14-19
+2026-2,Andes,Ciencias Naturales,2025-2,2090303-25,20,Sistemas Químicos III,S14-19 - DD_7-12 - V7-12
+2026-2,Andes,Ciencias Naturales,2025-2,2096531-25,20,Calculo Integral,S14-19 - D7-12 - V7-12
+2026-2,Andes,Ciencias Naturales,2025-2,2090304-25,20,Física Biológica II,V14-19 - S7-12 - D14-19
+2026-2,Andes,Ciencias Naturales,"2025-1 , 2025-2",2090302-25,25,Microbiología,V14-19 - S7-12 - V7-12
+2026-2,Andes,Lengua Castellana y Literatura,2025-1,2094401-25,25,Práctica Pedagógica IV,S7-12 - V14-19 - D14-19
+2026-2,Andes,Ciencias Naturales,2025-1,2090404-25,20,Fisica Biológica III,S14-19 - D7-12 - D14-19
+2026-2,Andes,Ciencias Naturales,2025-1,2090401-25,20,Práctica Pedagógica IV,V14-19 - S7-12 - V7-12
+2026-2,Andes,Ciencias Naturales,2025-1,2090403-25,20,Sistemas Químicos IV,S14-19 - DD_7-12 - D14-19
+2026-2,Andes,Ciencias Naturales,"2024-2 , 2025-1",2059008-25,35,"Cognición, cultura y aprendizaje",V14-19 - S7-12 - D14-19
+2026-2,Andes,Ciencias Naturales,2024-2,2090502-25,25,Genética,S14-19 - D7-12 - V7-12
+2026-2,Andes,Ciencias Naturales,2024-2,2090501-25,10,Práctica Pedagógica V,S14-19 - DD_7-12 - V7-12
+2026-2,Andes,Ciencias Naturales,2024-2,2090503-25,10,Sistemas Químicos V,V14-19 - S7-12 - D14-19
+2026-2,Andes,Ciencias Naturales,2024-2,2059002-25,30,Sujetos en las Relaciones Pedagógicas,V14-19 - S7-12 - D14-19
+2026-2,Andes,Lengua Castellana y Literatura,"2024-1 , 2025-1",2094402-25,25,Poesía,S14-19 - D7-12 - V7-12
+2026-2,Andes,Lengua Castellana y Literatura,"2024-1 , 2025-1",2094403-25,30,Dramaturgia y teatro,S14-19 - D7-12 - V7-12
+2026-2,Andes,Lengua Castellana y Literatura,"2024-1 , 2025-1",2094204-25,30,Historia de la Lengua,S14-19 - D7-12 - V7-12
+2026-2,Andes,Lengua Castellana y Literatura,"2024-1 , 2025-1",2059005-25,30,Teorías curriculares y contextos educativos,V14-19 - S7-12 - D14-19
+2026-2,Andes,Especial,2024-1,2018060-25,20,"Modelos de evaluación, atención y asesoramiento en educación especial",V14-19 - S7-12 - D14-19
+2026-2,Andes,Especial,2024-1,2018064-25,20,Práctica pedagógica VI,S7-12 -  - D14-19
+2026-2,Andes,Especial,2024-1,2018062-25,20,Educación y discapacidad motora y dificultades de movilidad,V14-19 -  - D14-19
+2026-2,Andes,Lengua Castellana y Literatura,2024-1,2094601-25,15,Práctica Pedagógica VI,S7-12 - V14-19 - D14-19
+2026-2,Andes,Especial,2024-1,2018061-25,20,Educación y discapacidades sensoriales: visual,S14-19 -  - V7-12
+2026-2,Andes,Especial,2024-1,2059008-26,15,"Cognición, cultura y aprendizaje",S14-19 - D7-12 - V7-12
+2026-2,Andes,Especial,2023-1,2059002-26,25,Sujetos en las Relaciones Pedagógicas,L10-18 -  - L10-14
+2026-2,Andes,Especial,2023-1,2018080-25,25,"Diseño, gestión y evaluación de planes, programas y proyectos en educación especial",W8-12
+2026-2,Andes,Especial,2023-1,2018084-25,16,Práctica pedagógica VIII,M10-18 -  - M10-14
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2094801-26,7,Práctica Pedagógica VIII,V14-19 - S7-12
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2022011-25,30,Educación rural,S14-19 - D7-12 - V7-12
+2026-2,Andes,Especial,2023-1,2022011-26,25,Educación rural,J10-18 -  - J10-14
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2094803-25,20,Proyecto de semiótica de la cultura,S14-19 - D7-12 - V7-12
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2094801-25,7,Práctica Pedagógica VIII,V14-19 - S7-12
+2026-2,Andes,Especial,2023-1,2018084-26,8,Práctica pedagógica VIII,L10-18 - M10-14
+2026-2,Andes,Lengua Castellana y Literatura,2023-1,2094802-25,20,Seminario de investigación literaria,S14-19 - D7-12 - V7-12
+2026-2,Apartado,Especial,2026-1,2018025-80,45,"Relaciones entre desarrollo, educación y aprendizaje II",D7-12 - S14-19 - V7-12
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094202-80,45,Teorías Literarias I,S14-19 - D7-12 - V14-19
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094201-80,20,Práctica pedagógica II,V14-19 - S7-12 - D14-19
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094304-80,45,Morfología,V14-19 - S7-12 - D14-19
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094203-80,45,Fonética y fonología,S14-19 - D7-12 - V7-12
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2059001-80,45,Educación Popular,V14-19 - S7-12 - D14-19
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2059008-80,45,"Cognición, cultura y aprendizaje",S14-19 - D7-12 - V7-12
+2026-2,Apartado,Especial,2026-1,2018021-80,45,Lengua castellana y su didáctica,S14-19 -  - D14-19
+2026-2,Apartado,Especial,2026-1,2018020-80,45,Matemáticas y su didáctica,V14-19 -  - D14-19
+2026-2,Apartado,Especial,2026-1,2018023-80,45,Políticas educativas y sociales en discapacidad y capacidades y talentos excepcionales,D7-12 -  - V7-12
+2026-2,Apartado,Lengua Castellana y Literatura,2026-1,2094201-81,18,Práctica pedagógica II,V14-19 - S7-12 - D14-19
+2026-2,Apartado,Especial,2026-1,2018024-80,20,Práctica pedagógica II,S7-12 -  - D14-19
+2026-2,Apartado,Especial,2026-1,2018024-81,20,Práctica pedagógica II,S7-12 -  - D14-19
+2026-2,Apartado,Especial,2026-1,2059005-80,45,Teorías curriculares y contextos educativos,S14-19 - D7-12 - V7-12
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2059007-81,30,"Didácticas, saberes y evaluación",J7-15 -  - J7-11
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2094303-80,30,Literaturas griega y latina,M11-19 -  - J11-15
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2094301-80,30,Práctica Pedagógica III,M7-15 -  - W11-15
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2094404-80,30,Sintaxis,L7-15 -  - L7-11
+2026-2,Apartado,Lengua Castellana y Literatura,2025-2,2094302-80,30,Teorías literarias II,W7-11 -  - L15-19
+2026-2,Apartado,Especial,2025-1,2018041-80,40,Educación y discapacidad Intelectual,S14-19 -  - D14-19
+2026-2,Apartado,Especial,2025-1,2018043-80,40,Educación y déficit de atención con o sin hiperactividad,D7-12 -  - V7-12
+2026-2,Apartado,Especial,2025-1,2018042-80,40,Didáctica y educación especial,S14-19 - D7-12 - V7-12
+2026-2,Apartado,Especial,2025-1,2018040-80,40,Artes y su didáctica,V14-19 -  - D14-19
+2026-2,Apartado,Especial,2025-1,2018044-80,40,Práctica pedagógica IV,S7-12 -  - D14-19
 2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043006-30,27,Español Académico,V9-17
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043004-30,27,El Buen Vivir: Vivir Bien en el Territorio y la Comunidad,V9-17
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043003-30,27,"Lo Rural, las Ruralidades y las Poblaciones Rurales",S8-16
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043002-30,27,"Tierra, Territorio y Ecosistemas de las Comunidades Rurales",S8-16
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043001-30,27,Cartografía Social y Territorial,D7-15
+2026-2,Carmen de Viboral,Ruralidad y Paz,2026-2,2043005-30,27,Pedagogías desde la Diversidad Cultural,D7-15
+2026-2,Carmen de Viboral,Especial,2026-2,2018010-30,40,"Relaciones entre desarrollo, educación y aprendizaje I",W11-15 -  - L11-15
+2026-2,Carmen de Viboral,Especial,2026-2,2018014-30,40,Práctica pedagógica I,M11-15
+2026-2,Carmen de Viboral,Especial,2026-2,2059006-31,40,Políticas Públicas y Legislación Educativa,J15-19 -  - W15-19
+2026-2,Carmen de Viboral,Especial,2026-2,2018011-30,40,Historia y tradiciones de la educación especial,J11-15
+2026-2,Carmen de Viboral,Especial,2026-2,2059004-30,40,"Historia, imágenes y concepciones de maestro.",M15-19 -  - W15-19
+2026-2,Carmen de Viboral,Especial,2026-1,2018025-30,40,"Relaciones entre desarrollo, educación y aprendizaje II",M11-15
+2026-2,Carmen de Viboral,Matemáticas,2026-1,2059007-31,30,"Didácticas, saberes y evaluación",J11-15 -  - M11-15
+2026-2,Carmen de Viboral,Especial,2026-1,2018021-30,40,Lengua castellana y su didáctica,J11-15 -  - M7-11
